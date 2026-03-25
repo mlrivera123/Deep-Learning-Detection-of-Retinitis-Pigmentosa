@@ -1,4 +1,4 @@
-# Deep Learning Detection of Retinitis Pigmentosa Inheritance FOrms through SyntheticData Expansion of a Rare Disease Dataset — Paper Code
+# Deep Learning Detection of Retinitis Pigmentosa Inheritance Forms through Synthetic Data Expansion of a Rare Disease Dataset — Paper Code
 
 Implements VAE-based latent-space data augmentation followed by Vision Transformer fine-tuning for rare disease image classification, evaluated under 5-fold cross-validation.
 
